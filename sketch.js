@@ -3,8 +3,8 @@ var dog;
 
 function preload()
 {
-  dog_image = loadImage("images/dogImg.png");
-  happyDog_image = loadImage("images/dogImg1.png");
+  dog_image = loadImage("dogImg.png");
+  happyDog_image = loadImage("dogImg1.png");
 }
 
 function setup() {
